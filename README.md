@@ -19,7 +19,7 @@
   <br>
   Name: Jacob Beeson
   <br>
-  Github Link: <https://github.com/boxnbeeson>
+  [Github](https://github.com/boxnbeeson)
   <br>
   Email: <beeson.jp@gmail.com>
   ## <a name="credientials"></a>Credientials
