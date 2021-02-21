@@ -29,7 +29,7 @@ function generateMarkdown(data) {
   <br>
   [Portfolio](https://boxnbeeson.github.io/Portfolio/)
   <br>
-  Github Link: https://github.com/boxnbeeson
+  [Github](https://github.com/boxnbeeson)
   <br>
   Email: boxnbeeson.jp@gmail.com
 
