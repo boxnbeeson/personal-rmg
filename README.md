@@ -9,7 +9,7 @@
   * [Credientials](#credientials)
   * [License](#license)
   
-  ## <a name="demo"></a>Demo<sup><sub>[Table of Contents](#toc)</sub></sup>
+  ## <a name="demo"></a>Demo<sup><sub><sub>[Table of Contents](#toc)</sub></sub></sup>
   Once setup is complete, the user may simply run the program by typing 'node index.js' into the main folder's terminal. The user will be asked multiple questions regarding the project they are creating a README.md for. Once the program is out of questions, the README.md will be automatically generated, and can be adjusted to the user's preference. If you would like to follow my guide, you can view my tutorial [video](https://youtu.be/34QGRu6J9O0)
   ![](Assets/READMEGen.gif)
   ## <a name="installation">Installation</a>
