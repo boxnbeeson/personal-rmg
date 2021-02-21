@@ -21,6 +21,7 @@
   <br>
   [Portfolio](https://boxnbeeson.github.io/Portfolio/)
   [Github](https://github.com/boxnbeeson)
+  <a href="mailto:john@example.com">John</a>
   <br>
   Email: <beeson.jp@gmail.com>
   ## <a name="credientials"></a>Credientials
