@@ -1,37 +1,37 @@
-# Reactjs To Do List
-  A simple To-Do list using Reactjs
+# Example README.md
+  ## Description
+  This is an example README.md to demonstrate how the README.md will appear after using the command line application.
   <br>
-  https://github.com/jpbeeson/Reactjs-To-Do-List
-  ## Table of Contents
-  * [Demo](#demo)
+  Livelink: <i>This is where you would enter the project's livelink, or a tutorial video link.</i>
+
+  ## <a name="toc">Table of Contents</a>
   * [Installation](#installation)
-  * [Usage](#usage)
+  * [Guide](#guide)
   * [Contributing](#contributing)
-  * [Testing](#testing)
   * [Developer's Information](#devInfo)
   * [Credientials](#credientials)
+  * [Testing](#testing)
   * [License](#license)
   
-  ## <a name="demo"></a>Demo
-  
-  ![](insert screenshots/gifs here)
-  ## <a name="installation"></a>Installation
-  
-  ## <a name="usage"></a>Usage
-  
-  ## <a name="contributing"></a>Contributing
-  
-  ## <a name="testing"></a>Testing
-  
-  ## <a name="devInfo"></a>Developer's Information
+  ## <a name="installation">Installation</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  <i>This is where you would enter the project's installation instructions.</i>
+  ## <a name="guide">Guide</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  <i>This is where you would enter the guide/instructions for the project.</i>
+  <br>
+  ![](insert screenshots/gifs here) <- Included to make it easy to insert images.
+  ## <a name="devInfo">Developer's Information</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   Feel free to contact me using the information below if you have any questions or feedback!
   <br>
-  Name: Jacob Beeson
+  Name: Jacob(Jake) Beeson
   <br>
-  Github Link: <github.com/jpbeeson>
+  [Portfolio](https://boxnbeeson.github.io/Portfolio/)
   <br>
-  Email: <beeson.jp@gmail.com>
-  ## <a name="credientials"></a>Credientials
-  This application was created following Web Dev Simplified's online tutorial. His video tutorial can be found with the following link: https://www.youtube.com/watch?v=hQAHSlTtcmY
-  ## <a name="license"></a>License
-  CC0-1.0 License
+  [Github](https://github.com/boxnbeeson)
+  <br>
+  Email: boxnbeeson.jp@gmail.com
+  ## <a name="credientials">Credientials</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  # Don't forget to add and link all information sources!
+  ## <a name="testing">Testing</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  <i>This is where you would enter testing information for an application.</i>
+  ## <a name="license">License</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  MIT

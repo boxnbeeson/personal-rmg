@@ -14,15 +14,12 @@ function generateMarkdown(data) {
   * [Testing](#testing)
   * [License](#license)
   
-  ## <a name="installation">Installation</a> 
-  <sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  ## <a name="installation">Installation</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   ${data.Installation}
-  ## <a name="guide">Guide</a>
-  <sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  ## <a name="guide">Guide</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   ${data.Guide}
   ![](insert screenshots/gifs here)
-  ## <a name="devInfo">Developer's Information</a>
-  <sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  ## <a name="devInfo">Developer's Information</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   Feel free to contact me using the information below if you have any questions or feedback!
   <br>
   Name: Jacob(Jake) Beeson
@@ -32,14 +29,11 @@ function generateMarkdown(data) {
   Github Link: https://github.com/boxnbeeson
   <br>
   Email: boxnbeeson.jp@gmail.com
-  ## <a name="credientials">Credientials</a> 
-  <sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  ## <a name="credientials">Credientials</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   # Don't forget to add and link all information sources!
-  ## <a name="testing">Testing</a>
-  <sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  ## <a name="testing">Testing</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   ${data.Testing}
-  ## <a name="license">License</a>
-  <sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  ## <a name="license">License</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   ${data.License}
 `;
 }

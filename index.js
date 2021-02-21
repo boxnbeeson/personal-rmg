@@ -23,22 +23,22 @@ const questions = [
     {
         type: "input",
         name: "Installation",
-        message: "Enter the project's installation instructions:",
+        message: "What are the project's installation instructions?",
     },
     {
         type: "input",
         name: "Guide",
-        message: "Enter the project's intended use information:",
+        message: "What are the project's instructions for using the applcation?",
     },
     {
         type: "input",
         name: "Testing",
-        message: "Enter any project testing information:",
+        message: "What are the project's testing instructions?",
     },
     {
         type: "input",
         name: "License",
-        message: "Enter license information (For help choosing a license, visit https://choosealicense.com/): ",
+        message: "What license is this project under? (For help choosing a license, visit https://choosealicense.com/): ",
     },
 ];
 

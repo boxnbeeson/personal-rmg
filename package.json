@@ -1,22 +1,28 @@
 {
-  "name": "readme-generator",
+  "name": "personal-readme.md-generator",
   "version": "1.0.0",
-  "description": "A CLS application that creates ReadMes in a predefined manner.",
+  "description": "Command line application created to automate the creation of readme.md files",
   "main": "index.js",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
+  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpbeeson/README-Generator.git"
+    "url": "git+https://github.com/boxnbeeson/personal-rmg.git"
   },
+  "keywords": [
+    "cli",
+    "javascript",
+    "inquirer"
+  ],
   "author": "Jacob Beeson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jpbeeson/README-Generator/issues"
+    "url": "https://github.com/boxnbeeson/personal-rmg/issues"
   },
-  "homepage": "https://github.com/jpbeeson/README-Generator#readme",
-  "dependencies": {
-    "inquirer": "^7.3.3"
-  }
+  "homepage": "https://github.com/boxnbeeson/personal-rmg"
 }
