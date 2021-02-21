@@ -2,7 +2,7 @@
   A CLI application utilizing node.js and inquirer to create simple, automated project README.md files. This is a version of my README Generator that creates README files with a personalized template for ease of use for myself.
   <br>
   https://github.com/boxnbeeson/personal-rmg (application is ran through node, no deployable link to provide)
-  ## [Table of Contents](#toc)
+  ## <a name="toc">[Table of Contents]</a>
   * [Demo](#demo)
   * [Installation](#installation)
   * [Developer's Information](#devInfo)
