@@ -12,7 +12,7 @@
   ## <a name="demo"></a>Demo
   Once setup is complete, the user may simply run the program by typing 'node index.js' into the main folder's terminal. The user will be asked multiple questions regarding the project they are creating a README.md for. Once the program is out of questions, the README.md will be automatically generated, and can be adjusted to the user's preference. If you would like to follow my guide, you can view my tutorial [video](https://youtu.be/34QGRu6J9O0)
   ![](Assets/READMEGen.gif)
-  ## <a name="installation"></a>Installation
+  ## <a name="installation">Installation</a>
   To install, the user will download the repository to their system. As the inquirer package is utilized, the user must start by installing this package (npm install inquirer). Once inquirer is finished installing into the program's folder, the user may run the program by typing 'node index.js'.
   ## <a name="devInfo"></a>Developer's Information
   Feel free to contact me using the information below if you have any questions or feedback!
