@@ -48,6 +48,7 @@
   [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   <br>
   [How I created my "Table of Contents" footnote](https://meta.stackoverflow.com/questions/258597/formatting-footnotes)
+  <br>
   Licenses:
   <br>
   [https://choosealicense.com/](https://choosealicense.com/)
