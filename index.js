@@ -8,22 +8,17 @@ const questions = [
     {
         type: "input",
         name: "Title",
-        message: "Enter the project's title:",
-    },
-    {
-        type: "input",
-        name: "ProjectLink",
-        message: "Enter the deployed project link:",
+        message: "What is the project's Title?",
     },
     {
         type: "input",
         name: "Description",
-        message: "Enter the project's description:",
+        message: "What is the project's description?",
     },
     {
         type: "input",
-        name: "Demo",
-        message: "Provide Demo information (screenshots/gifs/videos will need to be inserted into the README.md manually):",
+        name: "ProjectLink",
+        message: "What is the project's Livelink?",
     },
     {
         type: "input",
@@ -32,18 +27,8 @@ const questions = [
     },
     {
         type: "input",
-        name: "Usage",
+        name: "Guide",
         message: "Enter the project's intended use information:",
-    },
-    {
-        type: "input",
-        name: "License",
-        message: "Enter license information (For help choosing a license, visit https://choosealicense.com/): ",
-    },
-    {
-        type: "input",
-        name: "Contributing",
-        message: "Describe how someone may contribute (if available):",
     },
     {
         type: "input",
@@ -52,26 +37,9 @@ const questions = [
     },
     {
         type: "input",
-        name: "DeveloperInfo1",
-        message: "Enter in your full name:",
+        name: "License",
+        message: "Enter license information (For help choosing a license, visit https://choosealicense.com/): ",
     },
-    {
-        type: "input",
-        name: "DeveloperInfo2",
-        message: "Enter in your gitHub profile username:",
-    },
-    {
-        type: "input",
-        name: "DeveloperInfo3",
-        message: "Enter in your email address:",
-    },
-    {
-        type: "input",
-        name: "Credientials",
-        message: "List any information sources you would like to credit:",
-    },
-    
-
 ];
 
 // function to write README file
