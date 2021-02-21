@@ -1,10 +1,10 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.Title}
-  ## Description
   ${data.Description}
   <br>
   Livelink: ${data.ProjectLink}
+
   ## <a name="toc">Table of Contents</a>
   * [Installation](#installation)
   * [Guide](#guide)
@@ -16,9 +16,11 @@ function generateMarkdown(data) {
   
   ## <a name="installation">Installation</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   ${data.Installation}
+
   ## <a name="guide">Guide</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   ${data.Guide}
   ![](insert screenshots/gifs here)
+
   ## <a name="devInfo">Developer's Information</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   Feel free to contact me using the information below if you have any questions or feedback!
   <br>
@@ -29,10 +31,14 @@ function generateMarkdown(data) {
   Github Link: https://github.com/boxnbeeson
   <br>
   Email: boxnbeeson.jp@gmail.com
+
   ## <a name="credientials">Credientials</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  
   # Don't forget to add and link all information sources!
+
   ## <a name="testing">Testing</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   ${data.Testing}
+
   ## <a name="license">License</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   ${data.License}
 `;

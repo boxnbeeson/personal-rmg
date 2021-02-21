@@ -1,22 +1,24 @@
 # Personal README Generator
-  ## Description
-  A command line application created to speed up the readme file creation process for future projects. This specific readme generator is a simplified version of another readme generator that was created by the same developer. This original can be found [here](). <- insert old readme generator link.
+  A command line application created to speed up the readme file creation process for future projects. This specific readme generator is a simplified version of another readme generator that was created by the same developer. This original can be found [here](https://github.com/boxnbeeson/README-Generator). 
   <br>
-  Livelink: No livelink to place. The tutorial video will be placed here.
+  Livelink: []() <- Tutorial video will be placed here.
+
   ## <a name="toc">Table of Contents</a>
   * [Installation](#installation)
   * [Guide](#guide)
   * [Contributing](#contributing)
   * [Developer's Information](#devInfo)
   * [Credientials](#credientials)
-  * [Testing](#testing)
   * [License](#license)
   
   ## <a name="installation">Installation</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
-  To install this project, one will:
+  To install this application, you may download the code into a zip file, or clone the repository. If you do not know how to clone a repository, I suggest looking into this [GitHub Documentation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+  <br>
+  This command line application requires inquirer, which can be installed using the terminal prompt "npm install inquirer". To run the terminal command, one must also have Node.js, which can be installed [here](https://nodejs.org/en/) (for those new to coding, it is recommended to install the LTS version of node.)
+  
   ## <a name="guide">Guide</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
-  to use the application, simply:
-  ![](insert screenshots/gifs here)
+  After dependencies have been installed
+
   ## <a name="devInfo">Developer's Information</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   Feel free to contact me using the information below if you have any questions or feedback!
   <br>
@@ -27,9 +29,30 @@
   Github Link: https://github.com/boxnbeeson
   <br>
   Email: boxnbeeson.jp@gmail.com
+
   ## <a name="credientials">Credientials</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
-  # Don't forget to add and link all information sources!
-  ## <a name="testing">Testing</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  Understanding Node.js:
+  <br>
+  [Node.js Documentation](https://nodejs.org/docs/latest/api/documentation.html)
+  <br>
+  [Writing Files in Node.js](https://stackoverflow.com/questions/2496710/writing-files-in-node-js)
+  <br>
+  Markdown help:
+  <br>
+  [Markdownguide cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+  <br>
+  [How to write a table of contents](https://community.atlassian.com/t5/Bitbucket-questions/How-to-write-a-table-of-contents-in-a-Readme-md/qaq-p/673363)
+  <br>
+  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  <br>
+  [How I created my "Table of Contents" footnote](https://meta.stackoverflow.com/questions/258597/formatting-footnotes)
+  Licenses:
+  <br>
+  [https://choosealicense.com/](https://choosealicense.com/)
+  <br>
+  Inquirer:
+  <br>
+  [Inquirer Documentation](https://www.npmjs.com/package/inquirer)
   
   ## <a name="license">License</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   MIT
