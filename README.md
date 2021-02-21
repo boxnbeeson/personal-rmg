@@ -18,6 +18,8 @@
   
   ## <a name="guide">Guide</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   After dependencies have been installed, open up the main terminal for the project folder and run "node index.js". This will prompt the user with a series of questions that will fill in the generateMarkdown.js file. The generated readme will be created as "genREADME.md".
+  <br>
+  ![](Assets/READMEGen.gif)
 
   ## <a name="devInfo">Developer's Information</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   Feel free to contact me using the information below if you have any questions or feedback!

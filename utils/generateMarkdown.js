@@ -19,6 +19,7 @@ function generateMarkdown(data) {
 
   ## <a name="guide">Guide</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   ${data.Guide}
+  <br>
   ![](insert screenshots/gifs here)
 
   ## <a name="devInfo">Developer's Information</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
@@ -33,7 +34,7 @@ function generateMarkdown(data) {
   Email: boxnbeeson.jp@gmail.com
 
   ## <a name="credientials">Credientials</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
-  
+
   # Don't forget to add and link all information sources!
 
   ## <a name="testing">Testing</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
