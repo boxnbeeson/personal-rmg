@@ -8,7 +8,7 @@ const questions = [
     {
         type: "input",
         name: "Title",
-        message: "What is the project's Title?",
+        message: "What is the project's title?",
     },
     {
         type: "input",
@@ -18,7 +18,7 @@ const questions = [
     {
         type: "input",
         name: "ProjectLink",
-        message: "What is the project's Livelink?",
+        message: "What is the project's livelink?",
     },
     {
         type: "input",
@@ -28,7 +28,7 @@ const questions = [
     {
         type: "input",
         name: "Guide",
-        message: "What are the project's instructions for using the applcation?",
+        message: "Please provide proper instructions for using the application:",
     },
     {
         type: "input",
@@ -48,7 +48,7 @@ function writeToFile(fileName, data) {
         if (err) {
             return console.log(err);
         } else {
-            console.log("Success!")
+            console.log("Success! genREADME.md created. Don't forget to erase unused sections and the corresponding table of contents components! Also, make sure to fill out your credentials and add any necessary media!")
         }
     })
 }

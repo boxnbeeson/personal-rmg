@@ -8,7 +8,6 @@ function generateMarkdown(data) {
   ## <a name="toc">Table of Contents</a>
   * [Installation](#installation)
   * [Guide](#guide)
-  * [Contributing](#contributing)
   * [Developer's Information](#devInfo)
   * [Credientials](#credientials)
   * [Testing](#testing)
@@ -35,7 +34,7 @@ function generateMarkdown(data) {
 
   ## <a name="credientials">Credientials</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
 
-  # Don't forget to add and link all information sources!
+  Don't forget to add and link all information sources!
 
   ## <a name="testing">Testing</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   ${data.Testing}

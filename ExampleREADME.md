@@ -7,7 +7,6 @@
   ## <a name="toc">Table of Contents</a>
   * [Installation](#installation)
   * [Guide](#guide)
-  * [Contributing](#contributing)
   * [Developer's Information](#devInfo)
   * [Credientials](#credientials)
   * [Testing](#testing)
