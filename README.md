@@ -7,7 +7,7 @@
   * [Installation](#installation)
   * [Guide](#guide)
   * [Developer's Information](#devInfo)
-  * [Credientials](#credientials)
+  * [Credentials](#credentials)
   * [License](#license)
   
   ## <a name="installation">Installation</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
@@ -31,7 +31,7 @@
   <br>
   Email: boxnbeeson.jp@gmail.com
 
-  ## <a name="credientials">Credientials</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
+  ## <a name="credentials">Credentials</a><sup><sup><sub>[Table of Contents](#toc)</sub></sup></sup>
   Understanding Node.js:
   <br>
   [Node.js Documentation](https://nodejs.org/docs/latest/api/documentation.html)
